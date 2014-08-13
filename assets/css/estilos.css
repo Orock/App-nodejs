@@ -1,0 +1,13 @@
+.panel_general{
+	border-top: 0;
+	border-top-left-radius: 0;
+	border-top-right-radius: 0;
+}
+
+.h4{
+	text-align: center;
+}
+
+.controles span{
+	font-size: 4em;
+}

@@ -1,0 +1,9 @@
+{
+  "name": "ejecutar-aplicaciones",
+  "version": "0.0.1",
+  "description": "Ejecuta aplicaciones desde un browser",
+  "dependencies": {
+    "express": "~4.8.3",
+    "socket.io": "~1.0.6"
+  }
+}
